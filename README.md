@@ -1,2 +1,2 @@
 # LeadStar-v3
-LeadStar MVP - LeadStar v2: Enhanced self-grokking app
+LeadStar MVP - LeadStar v3: Enhanced self-grokking app
